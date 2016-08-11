@@ -1,5 +1,5 @@
-# MVC MultiLanguage Web Development
-C# MVC .net - Visual Studio -English Kannada Arabic Multi language Application Development
+# MVC MultiLanguage Web Development - Kannada / Arabic / English  - Visual Studio 2013
+
 This is an working example which demonstrates how to develop c# multi lingual web applications easily.
 It covers whole concepts and can be extended to any level.
 same procedure can be used to add multi lingual support to any existing project. The change is only in the models and no need to make any changes in the view level or controller level
